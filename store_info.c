@@ -1,9 +1,9 @@
 //WAP to store your name, city, section, roll no. and CGPA in the variables and print them.
 #include<stdio.h>
 int main(void){
-	char string[]="Malay Ghosh";
-	char string_1[]="Phagwara";
-	char string_2[]="KT";
+	char string[]="%s";
+	char string_1[]="%s";
+	char string_2[]="%s";
 	int roll_no;
 	float CGPA;
 	
